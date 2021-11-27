@@ -1,0 +1,1 @@
+alert("If any damage is done to your device, Developer would not be responsible for it. Use it on Your own Risk.")
