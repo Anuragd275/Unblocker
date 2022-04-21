@@ -1,13 +1,24 @@
 body{
-    background-color: #363062;
+    background-color: #06113C;
     font-family: Lato, sans-serif;
 }
 
 h1, h2{
     font-family: inherit;
+    color: #fff;
+}
+
+a:link{
+    text-decoration: none;
+    color: #222;
 }
 
 .top-sites-area{
     display: flex;
     flex-direction: column;
+}
+
+.top-sites{
+    height: 1.2rem;
+    width: 6rem;
 }
