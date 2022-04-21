@@ -1,0 +1,13 @@
+body{
+    background-color: #363062;
+    font-family: Lato, sans-serif;
+}
+
+h1, h2{
+    font-family: inherit;
+}
+
+.top-sites-area{
+    display: flex;
+    flex-direction: column;
+}
