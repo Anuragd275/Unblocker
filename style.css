@@ -8,17 +8,22 @@ h1, h2{
     color: #fff;
 }
 
+.header-area{
+    display: block;
+    justify-content: center;
+}
+
 a:link{
     text-decoration: none;
     color: #222;
 }
 
-.top-sites-area{
+.top-sites-area, .top-sites-area-2{
     display: flex;
     flex-direction: column;
 }
 
 .top-sites{
-    height: 1.2rem;
-    width: 6rem;
+    height: 2.5rem;
+    width: 12rem;
 }
