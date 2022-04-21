@@ -8,6 +8,11 @@ body{
     box-sizing: border-box;
 }
 
+a:link{
+    color: #fff;
+}
+
+
 
 .logo{
     color: dodgerblue;
